@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "427924008053",
+    "firebase_url": "https://realtime-chat-f417d.firebaseio.com",
+    "project_id": "realtime-chat-f417d",
+    "storage_bucket": "realtime-chat-f417d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427924008053:android:9a33df5b75402f48aa5c3c",
+        "android_client_info": {
+          "package_name": "com.example.dwirizqi.realtimechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427924008053-a26evpq6sntm9cj81c95n1v24v4i6ngu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjxquKJDe-2gE8IXjXam5q8UB9N5-R-SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427924008053-a26evpq6sntm9cj81c95n1v24v4i6ngu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427924008053:android:b38cb9977d2b86e4aa5c3c",
+        "android_client_info": {
+          "package_name": "com.example.realtimechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427924008053-grrts2p7mqkqev9quoub2mk715taha21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtimechat",
+            "certificate_hash": "6e82d8ad93c4b33d7c724c7cd60b0cdab9b5bd89"
+          }
+        },
+        {
+          "client_id": "427924008053-a26evpq6sntm9cj81c95n1v24v4i6ngu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjxquKJDe-2gE8IXjXam5q8UB9N5-R-SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427924008053-a26evpq6sntm9cj81c95n1v24v4i6ngu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427924008053:android:acd9fea25080d34eaa5c3c",
+        "android_client_info": {
+          "package_name": "realtime.Chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427924008053-gvse4kotebdo8vk329f12ovbog8kqvfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "realtime.Chat",
+            "certificate_hash": "6e82d8ad93c4b33d7c724c7cd60b0cdab9b5bd89"
+          }
+        },
+        {
+          "client_id": "427924008053-a26evpq6sntm9cj81c95n1v24v4i6ngu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjxquKJDe-2gE8IXjXam5q8UB9N5-R-SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427924008053-a26evpq6sntm9cj81c95n1v24v4i6ngu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
